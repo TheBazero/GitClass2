@@ -1,1 +1,5 @@
 second git class...
+
+
+
+syntax Techs
